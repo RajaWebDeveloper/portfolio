@@ -5,32 +5,32 @@
 		"link" : "https://europeanuniversity.in/"
 	},
 	{
-		"img" : "w2.png",
+		"img" : "w2.PNG",
 		"title" : "Website - React js",
 		"link" : "https://kutaisiuniversity.com/"
 	},
 	{
-		"img" : "w3.png",
+		"img" : "w3.PNG",
 		"title" : "Website - React js",
 		"link" : "https://davaomedicalschoolfoundation.org/"
 	},
 	{
-		"img" : "w7.png",
+		"img" : "w7.PNG",
 		"title" : "Website - React js",
 		"link" : "https://liceoedu.org/"
 	},
 	{
-		"img" : "w4.png",
+		"img" : "w4.PNG",
 		"title" : "WebApp - Laravel (Frontend + Adminpanel)",
 		"link" : "https://royalnextacademy.com/"
 	},
 	{
-		"img" : "w5.png",
+		"img" : "w5.PNG",
 		"title" : "WebApp - Laravel (Frontend + Adminpanel)",
 		"link" : "https://shreesaiedu.com/"
 	},
 	{
-		"img" : "w6.png",
+		"img" : "w6.PNG",
 		"title" : "WebApp - React js (Frontend + Adminpanel(Laravel jwt auth))",
 		"link" : "http://portal.royalnextacademy.com/"
 	}
